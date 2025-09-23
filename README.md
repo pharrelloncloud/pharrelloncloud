@@ -30,7 +30,7 @@ I started in **wealth management (finance)** and transitioned into **Cloud & Dev
 
 ## 📫 Let’s Connect
 - 🌐 [LinkedIn](https://linkedin.com/in/pharrell-knight)
-- 📧 [Email](pharrellknight2004@gmail.com)
+- 📧 Email: pharrellknight2004@gmail.com
 
 ---
 ✨ *“Building cloud solutions with purpose and scalability.”*
