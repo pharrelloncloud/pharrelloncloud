@@ -1,6 +1,6 @@
 # Hi there, I'm Pharrell ☁️
 
-🚀 **Cloud & DevOps Engineer | Linux | Git | AWS | Automation**
+🚀 **Cloud & DevOps Engineer | Linux | Git | AWS | Automation**  
 Passionate about building scalable, secure, and ethical tech platforms with a focus on Cloud Architecture and DevOps.
 
 ---
