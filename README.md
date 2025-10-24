@@ -1,12 +1,12 @@
 # Hi there, I'm Pharrell ☁️
 
-🚀 **Aspiring Cloud & DevOps Engineer | AWS | Automation & Infrastructure-as-Code**
-Passionate about building scalable, secure, and ethical tech platforms with a focus on Cloud Architecture, DevOps, and Cybersecurity.
+🚀 **Cloud & DevOps Engineer | Linux | Git | AWS | Automation**
+Passionate about building scalable, secure, and ethical tech platforms with a focus on Cloud Architecture and DevOps.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- ☁️ **Cloud**: AWS (beginner)
+- ☁️ **Cloud**: AWS
 - 🐧 **OS**: Linux | Windows
 - 🐳 **Containers**: Docker | Kubernetes
 - ⚙️ **Infrastructure-as-Code (IaC)**: Terraform | Ansible
@@ -24,7 +24,7 @@ Passionate about building scalable, secure, and ethical tech platforms with a fo
 ---
 
 ## 📈 My Journey
-I started in **wealth management (finance)** and transitioned into **Cloud & DevOps**, driven by a vision to combine **tech innovation** with **ethical principles**. My goal is to become a **Solutions Architect** while building platforms that positively impact communities.
+I started in **wealth management (finance)** and transitioned into **Cloud & DevOps**, driven by a vision to combine **tech innovation** with **ethical principles**. My goal is to become a **Cloud & DevOps Engineer** while building platforms that positively impact communities.
 
 ---
 
