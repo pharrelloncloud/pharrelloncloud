@@ -23,11 +23,6 @@ Passionate about building scalable, secure, and ethical tech platforms with a fo
 
 ---
 
-## 📈 My Journey
-I started in **wealth management (finance)** and transitioned into **Cloud & DevOps**, driven by a vision to combine **tech innovation** with **ethical principles**. My goal is to become a **Cloud & DevOps Engineer** while building platforms that positively impact communities.
-
----
-
 ## 📫 Let’s Connect
 - 🌐 [LinkedIn](https://linkedin.com/in/pharrell-knight)
 - 📧 Email: pharrellknight2004@gmail.com
